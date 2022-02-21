@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://iilin-glenflow.github.io/cmy-skills-specialist-gh-pages/static/css/main.95ddb438.css",
-    "main.js": "https://iilin-glenflow.github.io/cmy-skills-specialist-gh-pages/static/js/main.eaa25c71.js",
+    "main.js": "https://iilin-glenflow.github.io/cmy-skills-specialist-gh-pages/static/js/main.c83bb1ea.js",
     "static/js/27.bef63a95.chunk.js": "https://iilin-glenflow.github.io/cmy-skills-specialist-gh-pages/static/js/27.bef63a95.chunk.js",
     "static/media/Roboto-Medium.ttf": "https://iilin-glenflow.github.io/cmy-skills-specialist-gh-pages/static/media/Roboto-Medium.ef677e217f2009c16854.ttf",
     "static/media/Roboto-Regular.ttf": "https://iilin-glenflow.github.io/cmy-skills-specialist-gh-pages/static/media/Roboto-Regular.25e40da956314b12d333.ttf",
@@ -20,6 +20,6 @@
   },
   "entrypoints": [
     "static/css/main.95ddb438.css",
-    "static/js/main.eaa25c71.js"
+    "static/js/main.c83bb1ea.js"
   ]
 }
