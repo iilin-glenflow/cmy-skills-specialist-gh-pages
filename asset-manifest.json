@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.9d9b098f.css",
-    "main.js": "/static/js/main.6acd2343.js",
-    "static/js/27.bef63a95.chunk.js": "/static/js/27.bef63a95.chunk.js",
-    "static/media/Roboto-Medium.ttf": "/static/media/Roboto-Medium.ef677e217f2009c16854.ttf",
-    "static/media/Roboto-Regular.ttf": "/static/media/Roboto-Regular.25e40da956314b12d333.ttf",
-    "static/media/Roboto-Bold.ttf": "/static/media/Roboto-Bold.5e9f6556d3c0bf6230f0.ttf",
-    "static/media/Roboto-Medium.woff": "/static/media/Roboto-Medium.b14ca2d2b289afceb0b0.woff",
-    "static/media/Roboto-Bold.woff": "/static/media/Roboto-Bold.3f2cbde6b72e8d05669f.woff",
-    "static/media/Roboto-Regular.woff": "/static/media/Roboto-Regular.31012f9b3e3da44f87e8.woff",
-    "static/media/Roboto-Medium.woff2": "/static/media/Roboto-Medium.fc0337b9cf1cce2e6e1e.woff2",
-    "static/media/Roboto-Bold.woff2": "/static/media/Roboto-Bold.6cd35edfbc0d7a417131.woff2",
-    "static/media/Roboto-Regular.woff2": "/static/media/Roboto-Regular.a25806274237d06e00a6.woff2",
-    "static/media/welcome_page.jpg": "/static/media/welcome_page.d6405601167039b4583d.jpg",
-    "static/media/Roboto-Black.ttf": "/static/media/Roboto-Black.016d066a4b4b66177e65.ttf",
-    "static/media/Roboto-Black.woff": "/static/media/Roboto-Black.b555d2282352d94691bc.woff",
-    "static/media/Roboto-Black.woff2": "/static/media/Roboto-Black.153ba331429b872012a6.woff2",
-    "index.html": "/index.html"
+    "main.css": "https://iilin-glenflow.github.io/cmy-skills-specialist-gh-pages/static/css/main.95ddb438.css",
+    "main.js": "https://iilin-glenflow.github.io/cmy-skills-specialist-gh-pages/static/js/main.3215db0c.js",
+    "static/js/27.bef63a95.chunk.js": "https://iilin-glenflow.github.io/cmy-skills-specialist-gh-pages/static/js/27.bef63a95.chunk.js",
+    "static/media/Roboto-Medium.ttf": "https://iilin-glenflow.github.io/cmy-skills-specialist-gh-pages/static/media/Roboto-Medium.ef677e217f2009c16854.ttf",
+    "static/media/Roboto-Regular.ttf": "https://iilin-glenflow.github.io/cmy-skills-specialist-gh-pages/static/media/Roboto-Regular.25e40da956314b12d333.ttf",
+    "static/media/Roboto-Bold.ttf": "https://iilin-glenflow.github.io/cmy-skills-specialist-gh-pages/static/media/Roboto-Bold.5e9f6556d3c0bf6230f0.ttf",
+    "static/media/Roboto-Medium.woff": "https://iilin-glenflow.github.io/cmy-skills-specialist-gh-pages/static/media/Roboto-Medium.b14ca2d2b289afceb0b0.woff",
+    "static/media/Roboto-Bold.woff": "https://iilin-glenflow.github.io/cmy-skills-specialist-gh-pages/static/media/Roboto-Bold.3f2cbde6b72e8d05669f.woff",
+    "static/media/Roboto-Regular.woff": "https://iilin-glenflow.github.io/cmy-skills-specialist-gh-pages/static/media/Roboto-Regular.31012f9b3e3da44f87e8.woff",
+    "static/media/Roboto-Medium.woff2": "https://iilin-glenflow.github.io/cmy-skills-specialist-gh-pages/static/media/Roboto-Medium.fc0337b9cf1cce2e6e1e.woff2",
+    "static/media/Roboto-Bold.woff2": "https://iilin-glenflow.github.io/cmy-skills-specialist-gh-pages/static/media/Roboto-Bold.6cd35edfbc0d7a417131.woff2",
+    "static/media/Roboto-Regular.woff2": "https://iilin-glenflow.github.io/cmy-skills-specialist-gh-pages/static/media/Roboto-Regular.a25806274237d06e00a6.woff2",
+    "static/media/welcome_page.jpg": "https://iilin-glenflow.github.io/cmy-skills-specialist-gh-pages/static/media/welcome_page.d6405601167039b4583d.jpg",
+    "static/media/Roboto-Black.ttf": "https://iilin-glenflow.github.io/cmy-skills-specialist-gh-pages/static/media/Roboto-Black.016d066a4b4b66177e65.ttf",
+    "static/media/Roboto-Black.woff": "https://iilin-glenflow.github.io/cmy-skills-specialist-gh-pages/static/media/Roboto-Black.b555d2282352d94691bc.woff",
+    "static/media/Roboto-Black.woff2": "https://iilin-glenflow.github.io/cmy-skills-specialist-gh-pages/static/media/Roboto-Black.153ba331429b872012a6.woff2",
+    "index.html": "https://iilin-glenflow.github.io/cmy-skills-specialist-gh-pages/index.html"
   },
   "entrypoints": [
-    "static/css/main.9d9b098f.css",
-    "static/js/main.6acd2343.js"
+    "static/css/main.95ddb438.css",
+    "static/js/main.3215db0c.js"
   ]
 }
